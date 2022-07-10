@@ -2,5 +2,7 @@
 /*
  * Theme Functions
  *
- * @package printing_press
+ * @package onsite
  */
+
+//function

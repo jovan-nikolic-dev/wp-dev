@@ -2,7 +2,7 @@
 /*
  * Main template file
  *
- * @package printing_press
+ * @package onsite
  */
 
 ?>

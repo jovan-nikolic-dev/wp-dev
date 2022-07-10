@@ -2,7 +2,7 @@
 /*
  * Footer template
  *
- * @package printing_press
+ * @package onsite
  */
 ?>
 <footer>Footer</footer>

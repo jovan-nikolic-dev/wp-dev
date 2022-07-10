@@ -2,7 +2,7 @@
 /*
  * Header template
  *
- * @package printing_press
+ * @package onsite
  */
 ?>
 <!DOCTYPE html>
