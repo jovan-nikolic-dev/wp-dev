@@ -2,7 +2,7 @@
 /*
  * Footer template
  *
- * @package wp-noob
+ * @package printing_press
  */
 ?>
 <footer>Footer</footer>

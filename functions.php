@@ -2,5 +2,5 @@
 /*
  * Theme Functions
  *
- * @package wp-noob
+ * @package printing_press
  */

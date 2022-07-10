@@ -2,7 +2,7 @@
 /*
  * Header template
  *
- * @package wp-noob
+ * @package printing_press
  */
 ?>
 <!DOCTYPE html>
